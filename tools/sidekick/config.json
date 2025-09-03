@@ -5,15 +5,14 @@
       "id": "send-for-review",
       "title": "Send For Review",
       "environments": ["edit","dev","preview"],
-      "url": "/tools/send-for-review/send-for-review.js",
+      "path": "/tools/send-for-review/send-for-review.js",
       "isPalette": false
     },
     {
-    
-      "id": "publish-for-review-v5",
+      "id": "publish-for-review",
       "title": "Publish For Review",
       "environments": ["edit","dev","preview"],
-      "url": "/tools/publish-for-review/publish-for-review.js",
+      "path": "/tools/publish-for-review/publish-for-review.js",
       "isPalette": false
     }
   ]
