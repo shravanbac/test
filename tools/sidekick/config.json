@@ -1,0 +1,20 @@
+{
+  "project": "test",
+  "plugins": [
+    {
+      "id": "send-for-review",
+      "title": "Send For Review",
+      "environments": ["edit","dev","preview"],
+      "url": "/tools/send-for-review/send-for-review.js",
+      "isPalette": false
+    },
+    {
+    
+      "id": "publish-for-review-v5",
+      "title": "Publish For Review",
+      "environments": ["edit","dev","preview"],
+      "url": "/tools/publish-for-review/publish-for-review.js",
+      "isPalette": false
+    }
+  ]
+}
