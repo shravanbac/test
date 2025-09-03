@@ -4,16 +4,14 @@
     {
       "id": "send-for-review",
       "title": "Send For Review",
-      "environments": ["edit","dev","preview"],
-      "path": "/tools/send-for-review/send-for-review.js",
-      "isPalette": false
+      "environments": ["edit", "preview"],
+      "path": "/tools/send-for-review/send-for-review.js"
     },
     {
       "id": "publish-for-review",
       "title": "Publish For Review",
-      "environments": ["edit","dev","preview"],
-      "path": "/tools/publish-for-review/publish-for-review.js",
-      "isPalette": false
+      "environments": ["edit", "preview"],
+      "path": "/tools/publish-for-review/publish-for-review.js"
     }
   ]
 }
