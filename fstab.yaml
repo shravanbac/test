@@ -1,4 +1,2 @@
 mountpoints:
-  /:
-    url: https://content.da.live/shravanbac/test/
-    type: markup
+  /: https://github.com/shravanbac/test
