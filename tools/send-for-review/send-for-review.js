@@ -1,4 +1,4 @@
 export default function sendForReview() {
-  // eslint-disable-next-line no-alert
-  alert('✅ Send-for-review clicked!!!');
+  console.log("✅ Send For Review plugin executed");
+  alert("Send-for-review clicked!");
 }
