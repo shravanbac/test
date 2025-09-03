@@ -5,13 +5,15 @@
       "id": "send-for-review",
       "title": "Send For Review",
       "environments": ["edit", "preview"],
-      "path": "/tools/send-for-review/send-for-review.js"
+      "path": "/tools/send-for-review/send-for-review.js",
+      "type": "action"
     },
     {
       "id": "publish-for-review",
       "title": "Publish For Review",
       "environments": ["edit", "preview"],
-      "path": "/tools/publish-for-review/publish-for-review.js"
+      "path": "/tools/publish-for-review/publish-for-review.js",
+      "type": "action"
     }
   ]
 }
